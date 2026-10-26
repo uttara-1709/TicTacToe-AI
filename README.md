@@ -1,7 +1,7 @@
 
 # Unbeatable Tic-Tac-Toe AI
 
-A Python mini-project implementing an AI opponent using the Minimax algorithm and Alpha-Beta Pruning.
+A mini-project implementing an AI opponent using Minimax and Alpha-Beta Pruning.
 
 ## Features
 - Easy, Medium and Hard difficulty levels
@@ -18,8 +18,14 @@ A Python mini-project implementing an AI opponent using the Minimax algorithm an
 
 ## How to Run
 
-Run the game:
+Start the game:
+
+```bash
 python tic_tac_toe.py
+```
 
 Run the 10-game test:
+
+```bash
 python test_ai.py
+```
